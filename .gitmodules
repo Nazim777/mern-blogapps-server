@@ -1,0 +1,3 @@
+[submodule "mern-blogapps"]
+	path = mern-blogapps
+	url = https://github.com/Nazim777/mern-blogapps
